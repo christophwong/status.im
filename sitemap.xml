@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://status.im/our_team/open_positions.html</loc>
+    
+    <lastmod>2020-12-08T11:55:52.753Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/work/index.html</loc>
     
     <lastmod>2020-12-03T03:18:35.678Z</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>https://status.im/technical/index-oos.html</loc>
-    
-    <lastmod>2020-12-03T03:18:35.674Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/technical/testing.html</loc>
     
     <lastmod>2020-12-03T03:18:35.674Z</lastmod>
     
@@ -58,6 +58,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/web-three-browser/index.html</loc>
+    
+    <lastmod>2020-12-03T03:18:35.674Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/user_guides/pairing_devices.html</loc>
     
     <lastmod>2020-12-03T03:18:35.674Z</lastmod>
@@ -79,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/web-three-browser/index.html</loc>
+    <loc>https://status.im/technical/testing.html</loc>
     
     <lastmod>2020-12-03T03:18:35.674Z</lastmod>
     
@@ -163,13 +170,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/our_team/perks_benefits.html</loc>
-    
-    <lastmod>2020-12-03T03:18:35.662Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/our_team/the_future.html</loc>
     
     <lastmod>2020-12-03T03:18:35.662Z</lastmod>
@@ -205,14 +205,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/index.html</loc>
+    <loc>https://status.im/research/index.html</loc>
     
     <lastmod>2020-12-03T03:18:35.662Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/docs/FAQs.html</loc>
+    <loc>https://status.im/research/secure_messaging_compendium.html</loc>
     
     <lastmod>2020-12-03T03:18:35.662Z</lastmod>
     
@@ -255,13 +255,6 @@
   
   <url>
     <loc>https://status.im/tbp/index.html</loc>
-    
-    <lastmod>2020-12-03T03:18:35.662Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/research/index.html</loc>
     
     <lastmod>2020-12-03T03:18:35.662Z</lastmod>
     
@@ -352,6 +345,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/our_team/our_principles.html</loc>
+    
+    <lastmod>2020-12-03T03:18:35.662Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/our_team/life_status.html</loc>
     
     <lastmod>2020-12-03T03:18:35.662Z</lastmod>
@@ -380,21 +380,21 @@
   </url>
   
   <url>
-    <loc>https://status.im/our_team/our_principles.html</loc>
+    <loc>https://status.im/docs/FAQs.html</loc>
     
     <lastmod>2020-12-03T03:18:35.662Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/our_team/open_positions.html</loc>
+    <loc>https://status.im/our_team/perks_benefits.html</loc>
     
     <lastmod>2020-12-03T03:18:35.662Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/research/secure_messaging_compendium.html</loc>
+    <loc>https://status.im/index.html</loc>
     
     <lastmod>2020-12-03T03:18:35.662Z</lastmod>
     
@@ -429,27 +429,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/status_extras/index.html</loc>
-    
-    <lastmod>2020-12-03T03:18:35.614Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/status_extras/status_dapp_api.html</loc>
-    
-    <lastmod>2020-12-03T03:18:35.614Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/run_on_status/mobile_dev_tools.html</loc>
-    
-    <lastmod>2020-12-03T03:18:35.614Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/developer_tools/run_on_status/index.html</loc>
     
     <lastmod>2020-12-03T03:18:35.614Z</lastmod>
@@ -465,13 +444,6 @@
   
   <url>
     <loc>https://status.im/developer_tools/run_on_status/assets_guidelines.html</loc>
-    
-    <lastmod>2020-12-03T03:18:35.614Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/register_dapps/register_dapps.html</loc>
     
     <lastmod>2020-12-03T03:18:35.614Z</lastmod>
     
@@ -548,9 +520,44 @@
   </url>
   
   <url>
+    <loc>https://status.im/developer_tools/status_extras/index.html</loc>
+    
+    <lastmod>2020-12-03T03:18:35.614Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/developer_tools/status_extras/status_dapp_api.html</loc>
+    
+    <lastmod>2020-12-03T03:18:35.614Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/developer_tools/run_on_status/mobile_dev_tools.html</loc>
+    
+    <lastmod>2020-12-03T03:18:35.614Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/developer_tools/register_dapps/index.html</loc>
     
     <lastmod>2020-12-03T03:18:35.614Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/developer_tools/register_dapps/register_dapps.html</loc>
+    
+    <lastmod>2020-12-03T03:18:35.614Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/developer_tools/access_eth_provider.html</loc>
+    
+    <lastmod>2020-12-03T03:18:35.610Z</lastmod>
     
   </url>
   
@@ -590,23 +597,9 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/access_eth_provider.html</loc>
-    
-    <lastmod>2020-12-03T03:18:35.610Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/developer_tools/enable_chat.html</loc>
     
     <lastmod>2020-12-03T03:18:35.610Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/news/2018/10/25/nimbus/</loc>
-    
-    <lastmod>2020-12-03T03:18:35.606Z</lastmod>
     
   </url>
   
@@ -646,7 +639,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/contribute/index.html</loc>
+    <loc>https://status.im/news/2018/10/25/nimbus/</loc>
     
     <lastmod>2020-12-03T03:18:35.606Z</lastmod>
     
