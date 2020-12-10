@@ -386,6 +386,80 @@ $(document).ready(function($) {
 
   }
 
+  // Partner campaign landing page start
+  if (document.title === 'Status - Parter Campaign') {
+
+    let width =  w;
+
+    const statusLogoMobile = {
+      "position": "absolute",
+      "left": "50%",
+      "transform": "translate(-50%)"
+    }
+
+    const statusLogoDesktop = {
+      "position": "",
+      "left": "",
+      "transform": ""
+    }
+
+    const partnerHeroMobile = {
+      "height": "400px",
+    }
+
+    const partnerPhone = {
+      "margin-top": "30px",
+      "height": "400px",
+      "padding-left": "33%"
+    }
+
+    const partnerPhoneMobile = {
+      "margin-top": "30px",
+      "width": "300px",
+      "height": "350px"
+    }
+
+    $('footer').css("display", "none");
+    $('.splide__arrow').css("display", "none");
+    $('.splide__pagination').css("bottom", "-3rem");
+    $('.splide__pagination__page.is-active').css("background", "#ccc");
+    $('#global-payments-desktop').css("height", "#300px");
+    $('.partner-phone img').css(partnerPhone);
+    $('.partner-phone-mobile img').css(partnerPhoneMobile);
+
+    if (w < 768) {
+      $('.logo img').css(statusLogoMobile);
+      $('header').css("margin-top", "5px");
+      $('.partner-hero img').css(partnerHeroMobile);
+      $('#image-slider').show();
+      $('#partner-cta-mobile').show();
+      $('#desktop-features').hide();
+    } else {
+      $('.logo img').css(statusLogoDesktop);
+      $('#image-slider').hide();
+      $('#partner-cta-mobile').hide();
+      $('#desktop-features').show();
+    }
+
+    window.addEventListener("resize", function(event) {
+      width = document.body.clientWidth;
+      if (width < 768) {
+        $('.logo img').css(statusLogoMobile);
+        $('.partner-hero img').css(partnerHeroMobile);
+        $('header').css("margin-top", "5px");
+        $('#image-slider').show();
+        $('#partner-cta-mobile').show();
+        $('#desktop-features').hide();
+      } else {
+        $('.logo img').css(statusLogoDesktop);
+        $('#image-slider').hide();
+        $('#partner-cta-mobile').hide();
+        $('#desktop-features').show();
+      }
+    })
+  }
+  // Partner campaign landing page end
+
   if($('.js-right-sub-navigation').length){
     $('.js-editor-content h1, .js-editor-content h2, .js-editor-content h3').each(function (index, element) {
       var id = $(this).attr('id');

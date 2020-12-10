@@ -14,6 +14,9 @@ module.exports = {
     fontSize: {
       'xs': '.75rem',
       'sm': '.875rem',
+      '14': '14px',
+      '18': '18px',
+      '32': '32px',
       'tiny': '.875rem',
       'base': '1rem',
       'md': '1.2rem',
@@ -28,9 +31,11 @@ module.exports = {
       '8xl': '5.8rem',
     },
     screens: {
-      'xs': { 'max': '450px'},
+      'xs': { 'max': '450px' },
       'sm': '570px',
+      'md-max': { 'max': '768px' },
       'md': '768px',
+      'lg-max': { 'max': '1024px' },
       'lg': '1024px',
       'xl': '1199px',
       '2xl': '1450px',
